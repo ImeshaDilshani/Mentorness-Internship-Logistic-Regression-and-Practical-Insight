@@ -38,6 +38,6 @@ Knowing the theory is important, but the real fun starts when we use machine lea
 
 This online tool uses a trained machine learning model to guess if someone could have diabetes. It's made to help everyone, letting people use it easily.
 ```
-https://github.com/ImeshaDilshani/Diabetes-Prediction-System.git
+https://github.com/ImeshaDilshani/Meriskill-Internship-Customer-Churn-Analysis-Churn-Prediction.git
 ```
 The Diabetes Prediction System demonstrates the practical application of logistic regression and its potential to empower individuals with valuable health insights. By combining theoretical knowledge with hands-on experience, we can create tools that make a tangible difference in people's lives.
