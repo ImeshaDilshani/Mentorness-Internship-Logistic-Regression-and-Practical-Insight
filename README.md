@@ -33,3 +33,11 @@ classify something.
 
 If you take these steps and get the main ideas, then it won't be hard for you to make strong logistic regression models. This will help with any kind of challenge around classification that comes your way. So, start exploring and taking over the data world with this helpful hero.
 
+## Bringing It to Life: A Practical Diabetes Prediction System
+Knowing the theory is important, but the real fun starts when we use machine learning. To showcase this, let's dive into a hands-on example: the Diabetes Prediction System.Using a Simple Internet Tool to Guess Diabetes.
+
+This online tool uses a trained machine learning model to guess if someone could have diabetes. It's made to help everyone, letting people use it easily.
+```
+https://github.com/ImeshaDilshani/Diabetes-Prediction-System.git
+```
+The Diabetes Prediction System demonstrates the practical application of logistic regression and its potential to empower individuals with valuable health insights. By combining theoretical knowledge with hands-on experience, we can create tools that make a tangible difference in people's lives.
